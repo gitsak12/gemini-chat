@@ -1,5 +1,5 @@
 # GeminiLink Chatting App
-![IMG_20240708_180008_496](https://github.com/gitsak12/gemini-chat/assets/98003573/eaf128f3-e4fc-4075-a20d-0b239b05c2f0)
+<img src="https://github.com/gitsak12/gemini-chat/assets/98003573/eaf128f3-e4fc-4075-a20d-0b239b05c2f0" width=1000 height=800>
 
 GeminiLink is a user-friendly chatting application that allows you to interact with Gemini AI. With features like chat history, dark mode, and the ability to start new conversations or continue previous ones, GeminiLink aims to provide a seamless and personalized chatting experience.
 
