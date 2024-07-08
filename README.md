@@ -22,20 +22,20 @@ GeminiLink is a user-friendly chatting application that allows you to interact w
    - Start chatting with Gemini AI by typing your message in the chat box.
 
 2. **Starting a New Chat**:
-   - Click on the "Start New Chat" button.
+   - Click on the "Del" button on top right.
    - Confirm your action by clicking "Yes" to initiate a new conversation.
 
-3. **Viewing and Continuing Chat History**:
+4. **Viewing and Continuing Chat History**:
    - Access your chat history by clicking on the chat history icon.
    - Select any previous conversation to continue from where you left off.
 
-4. **Enabling/Disabling Dark Mode**:
+5. **Enabling/Disabling Dark Mode**:
    - Go to your profile by clicking on your avatar.
    - Toggle the dark mode switch to enable or disable dark mode as per your preference.
 
-5. **Deleting Chat History**:
+6. **Deleting Chat History**:
    - Open the chat history.
-   - Click on the delete icon and confirm your action to clear the chat history.
+   - Long Press, Click on the delete icon and confirm your action to clear the chat history.
 
 ## Profile Settings
 
